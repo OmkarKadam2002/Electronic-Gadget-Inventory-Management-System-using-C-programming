@@ -1,6 +1,8 @@
 # Electronic-Gadget-Inventory-Management-System-using-C-programming
 
-This project has been developed using the C programming language, with the primary goal of gaining practical insights into the application of data structures and sorting algorithms. It specifically utilizes a Singly-Linked Linked List and the Quicksort Algorithm.
+This project has been developed using the C programming language, with the primary goal of gaining practical insights into the application of data structures and sorting algorithms. 
+
+It specifically utilizes a Singly-Linked Linked List and the Quicksort Algorithm.
 
 The electronic gadget inventory is presented in a tabular format with five columns: Name, Brand, Model, Price, and Quantity. 
 
@@ -16,3 +18,10 @@ The project features a menu with five distinct choices:
 
 5. **Sort and Display Inventory:** This option facilitates the sorting of the inventory in ascending order based on various parameters, including name, brand, model, price, and quantity.
 
+Note:
+
+The project can be enhanced in terms of:
+
+- including more features like deleting the items and/or updating other gadget fields.
+
+- Memory allocation. 
